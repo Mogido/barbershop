@@ -1,2 +1,2 @@
 # barbershop
-first expirience
+first experience
